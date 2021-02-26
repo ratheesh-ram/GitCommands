@@ -22,3 +22,13 @@
 
 6. git push origin : origin is the name of the remote
 7. git push origin master : push the changes to the remote server with in the master branch
+
+**\*\*\*\***\*\*\***\*\*\*\*** ADDING EXISTING DIRECTORY IN TO GIT **\*\***\*\***\*\***\*\***\*\***\*\***\*\***
+
+1. git init : this command will make the current directory in to a git repository
+2. git add <Filename> : this will add the file in to git Staging Area
+3. git add . : this will add all the files to the staging area there in git detected an changes
+4. git commit - m "message" this will commit the changes
+5. since this is an new git repository in order to push the changes we need to add origin. for that login to github and create a new repository and do the following commands
+   git remote add origin https://github.com/ratheesh-ram/WebpackConfig.git
+   git push -u origin main
