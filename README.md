@@ -34,3 +34,5 @@
    git remote add origin https://github.com/ratheesh-ram/WebpackConfig.git
    git push -u origin main
 6. git pull origin main : this will pull all the changes which has been done by others to the current project and update it
+
+## this is the latest some updation of git
