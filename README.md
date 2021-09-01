@@ -6,10 +6,11 @@
 2. clone : clone a repository from the gitub
    eg : clone https://github.com/ratheesh-ram/GitCommands.git
 3. Status : this will shows the status of the git repository
-4. git commit :
+4. git config --list : this command lists the configuration of the git
+6. git commit :
    1. git commit -a : commit all the changes in the file
       eg : git commit -a -m "Added git, clone, status, git commit commands to the text file"
-5. git log : shows the logs of the repository in the local computer
+7. git log : shows the logs of the repository in the local computer
 
    ➜ /d/GitTuto/gitcommands : (main)git remote
    origin
@@ -20,8 +21,8 @@
 
    ➜ /d/GitTuto/gitcommands : (main)git push origin master
 
-6. git push origin : origin is the name of the remote
-7. git push origin master : push the changes to the remote server with in the master branch
+8. git push origin : origin is the name of the remote
+9. git push origin master : push the changes to the remote server with in the master branch
 
 **\*\*\*\***\*\*\***\*\*\*\*** ADDING EXISTING DIRECTORY IN TO GIT **\*\***\*\***\*\***\*\***\*\***\*\***\*\***
 
