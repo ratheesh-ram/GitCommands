@@ -35,5 +35,7 @@
    git remote add origin https://github.com/ratheesh-ram/WebpackConfig.git
    git push -u origin main
 6. git pull origin main : this will pull all the changes which has been done by others to the current project and update it
+7. git remote : shows the remote name associated with the git directory
+8. git remote -v : shows details about remote
 
 ## this is the latest some updation of git
