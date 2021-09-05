@@ -37,5 +37,6 @@
 6. git pull origin main : this will pull all the changes which has been done by others to the current project and update it
 7. git remote : shows the remote name associated with the git directory
 8. git remote -v : shows details about remote
+9. git branch -M main : this will add new branch main
 
 ## this is the latest some updation of git
