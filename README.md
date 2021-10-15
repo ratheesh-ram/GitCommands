@@ -23,6 +23,8 @@
 
 8. git push origin : origin is the name of the remote
 9. git push origin master : push the changes to the remote server with in the master branch
+10. git stash (To save your un-committed changes in a "stash". Note: this removes changes from working tree!)
+11. git stash pop
 
 **\*\*\*\***\*\*\***\*\*\*\*** ADDING EXISTING DIRECTORY IN TO GIT **\*\***\*\***\*\***\*\***\*\***\*\***\*\***
 
